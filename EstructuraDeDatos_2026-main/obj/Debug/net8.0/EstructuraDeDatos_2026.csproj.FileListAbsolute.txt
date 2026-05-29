@@ -12,3 +12,4 @@ C:\Users\Alumno156\Downloads\EstructuraDeDatos_2026-main\EstructuraDeDatos_2026-
 C:\Users\Alumno156\Downloads\EstructuraDeDatos_2026-main\EstructuraDeDatos_2026-main\obj\Debug\net8.0\EstructuraDeDatos_2026.pdb
 C:\Users\Alumno156\Downloads\EstructuraDeDatos_2026-main\EstructuraDeDatos_2026-main\obj\Debug\net8.0\EstructuraDeDatos_2026.genruntimeconfig.cache
 C:\Users\Alumno156\Downloads\EstructuraDeDatos_2026-main\EstructuraDeDatos_2026-main\obj\Debug\net8.0\ref\EstructuraDeDatos_2026.dll
+C:\Users\Alumno156\Downloads\EstructuraDeDatos_2026-main\EstructuraDeDatos_2026-main\obj\Debug\net8.0\EstructuraDeDatos_2026.sourcelink.json
